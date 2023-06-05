@@ -16,6 +16,11 @@ Increase and decrease a clients weight, thus increasing and decreasing the space
 cfacts-bottomstack - https://dwm.suckless.org/patches/cfacts/dwm-cfacts_bottomstack-6.2.diff
 bstack and bstackhoriz layouts compatible with cfacts/changing the clients weight.
 
+--
+
+Added personal customisations to change screen brightness and audio volume.
+
+
 Requirements
 ------------
 In order to build dwm you need the Xlib header files.
